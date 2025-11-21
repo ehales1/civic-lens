@@ -540,7 +540,7 @@ form fieldset div {
 
 }
 
-/* ///ADD/// x-large styles 1024px */
+/* ///ADD/// x-large styles 1024px (DONE) */
 @media (min-width: 1024px) {
   #main-content {
     max-width: 1024px;
